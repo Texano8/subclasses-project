@@ -1,4 +1,4 @@
-#Core Project
+# Core Project "+1"
 
 *Structure for creating a basic Java Project.*
 
