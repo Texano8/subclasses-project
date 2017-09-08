@@ -5,7 +5,7 @@
 **Java 8**
 
 * Maven
-* JUnit 4.12
+* TestNG 6.11
 * Selenium 2.53
 
 Automation Project.
