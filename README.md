@@ -1,6 +1,6 @@
-# Automation Project :+1:
+# Subclasses Project :+1:
 
-*Structure for creating a basic automation test using Selenium WebDriver.*
+*Structure for adding Subclasses to basic-project.*
 
 **Java 8**
 
